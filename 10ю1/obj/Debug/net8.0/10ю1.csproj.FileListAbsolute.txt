@@ -1,0 +1,14 @@
+D:\Документы\VS projects\Алгоритмизация\10ю1\bin\Debug\net8.0\10ю1.exe
+D:\Документы\VS projects\Алгоритмизация\10ю1\bin\Debug\net8.0\10ю1.deps.json
+D:\Документы\VS projects\Алгоритмизация\10ю1\bin\Debug\net8.0\10ю1.runtimeconfig.json
+D:\Документы\VS projects\Алгоритмизация\10ю1\bin\Debug\net8.0\10ю1.dll
+D:\Документы\VS projects\Алгоритмизация\10ю1\bin\Debug\net8.0\10ю1.pdb
+D:\Документы\VS projects\Алгоритмизация\10ю1\obj\Debug\net8.0\10ю1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\VS projects\Алгоритмизация\10ю1\obj\Debug\net8.0\10ю1.AssemblyInfoInputs.cache
+D:\Документы\VS projects\Алгоритмизация\10ю1\obj\Debug\net8.0\10ю1.AssemblyInfo.cs
+D:\Документы\VS projects\Алгоритмизация\10ю1\obj\Debug\net8.0\10ю1.csproj.CoreCompileInputs.cache
+D:\Документы\VS projects\Алгоритмизация\10ю1\obj\Debug\net8.0\10ю1.dll
+D:\Документы\VS projects\Алгоритмизация\10ю1\obj\Debug\net8.0\refint\10ю1.dll
+D:\Документы\VS projects\Алгоритмизация\10ю1\obj\Debug\net8.0\10ю1.pdb
+D:\Документы\VS projects\Алгоритмизация\10ю1\obj\Debug\net8.0\10ю1.genruntimeconfig.cache
+D:\Документы\VS projects\Алгоритмизация\10ю1\obj\Debug\net8.0\ref\10ю1.dll
